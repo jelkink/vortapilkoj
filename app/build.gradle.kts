@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.vortapilkoj"
+    namespace = "net.joselkink.vortapilkoj"
     compileSdk = 33
     
     defaultConfig {
-        applicationId = "com.example.vortapilkoj"
+        applicationId = "net.joselkink.vortapilkoj"
         minSdk = 21
         targetSdk = 33
         versionCode = 1

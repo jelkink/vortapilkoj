@@ -1,4 +1,4 @@
-package com.example.vortapilkoj.ui.theme
+package net.joselkink.vortapilkoj.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

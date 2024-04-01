@@ -1,4 +1,4 @@
-package com.example.vortapilkoj.ui.theme
+package net.joselkink.vortapilkoj.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
